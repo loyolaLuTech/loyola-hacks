@@ -21,6 +21,20 @@ h3{
 }
 
 /* HOMEPAGE */
+.lutech-logo-container {
+  background-color: #444343;
+  width: 150px;
+  position: fixed;
+  bottom: 0;
+  right: 40px;
+  /*border-top: 10px solid #fff;*/
+  /*border-left: 10px solid #fff;*/
+  z-index: 9999;
+  padding: 15px;
+}
+.lutech-logo {
+  width: 100%;
+}
 .master-container{
   background-color: #AAD6A6;
   margin: 40px;
