@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" height="425px" viewBox="0 0 550 425" enable-background="new 0 0 550 425" xml:space="preserve">
+	 width="550px" height="425px" viewBox="0 0 550 425" enable-background="new 0 0 550 425" xml:space="preserve">
 <rect x="457.259" y="102.28" fill="#444444" width="32.457" height="250"/>
 <rect x="385.081" y="122.28" fill="#444444" width="32.459" height="241.333"/>
 <rect x="276.814" y="132.28" fill="#444444" width="32.459" height="246.333"/>
@@ -18,7 +18,7 @@
 <rect x="96.372" y="82.28" fill="#444444" width="32.457" height="249.333"/>
 <rect x="24.194" y="92.28" fill="#444444" width="32.458" height="302.833"/>
 <rect x="28.044" y="153.947" fill="none" width="497.762" height="170.667"/>
-<text transform="matrix(1.0201 0 0 1 28.0439 179.5781)" fill="#FFFFFF" font-family="'SourceCodePro-Regular'" font-size="36" letter-spacing="13.724">CHICAGO</text>
-<text transform="matrix(1.0201 0 0 1 28.0439 221.5781)" fill="#FFFFFF" font-family="'SourceCodePro-Regular'" font-size="36" letter-spacing="13.724">SUSTAINABILITY</text>
-<text transform="matrix(1.0201 0 0 1 28.0439 277.5781)" fill="#D1D2D1" font-family="'SourceCodePro-Regular'" font-size="30" letter-spacing="17.646">17OCT2015</text>
+<text transform="matrix(1.0201 0 0 1 28.0439 179.5781)" fill="#FFFFFF" font-family="'SourceCodePro-Regular'" font-size="36" letter-spacing="13.824">CHICAGO</text>
+<text transform="matrix(1.0201 0 0 1 28.0439 221.5781)" fill="#FFFFFF" font-family="'SourceCodePro-Regular'" font-size="36" letter-spacing="13.824">SUSTAINABILITY</text>
+<text transform="matrix(1.0201 0 0 1 28.0439 277.5781)" enable-background="new    "><tspan x="0" y="0" fill="#E9E9E9" font-family="'SourceCodePro-Light'" font-size="30" letter-spacing="16.665">17</tspan><tspan x="71.279" y="0" fill="#E9E9E9" font-family="'SourceCodePro-Medium'" font-size="30" letter-spacing="16.665">OCT</tspan><tspan x="178.199" y="0" fill="#E9E9E9" font-family="'SourceCodePro-Light'" font-size="30" letter-spacing="16.665">2015</tspan></text>
 </svg>
