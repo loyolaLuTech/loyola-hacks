@@ -2,6 +2,7 @@
 html, body {
   font-size: 100%;
   font-family: 'Lato', sans-serif;
+  color: #444343;
 }
 
 h1{
@@ -20,3 +21,33 @@ h3{
 }
 
 /* HOMEPAGE */
+.master-container{
+  background-color: #AAD6A6;
+  margin: 40px;
+  padding: 50px;
+  font-family: 'Source Code Pro';
+}
+.left-text {
+  text-align: left;
+}
+.middle-text {
+  text-align: center;
+}
+.right-text {
+  text-align: right;
+}
+.title {
+  margin-top: 80px;
+}
+.title h1{
+  font-size: 400%;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+.title-graphic {
+  margin-top: -60px;
+}
+.title-graphic svg{
+  width: 100%;
+}
