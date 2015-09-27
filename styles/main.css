@@ -3,6 +3,8 @@ html, body {
   font-size: 100%;
   font-family: 'Lato', sans-serif;
   color: #444343;
+  margin: 0;
+  padding: 0;
 }
 
 h1{
@@ -21,6 +23,9 @@ h3{
 }
 
 /* HOMEPAGE */
+/*html{
+  padding: 40px;
+}*/
 .lutech-logo-container {
   /*width: 250px;*/
   /*padding: 15px;*/
@@ -33,7 +38,7 @@ h3{
 }
 .master-container{
   background-color: #AAD6A6;
-  margin: 40px;
+  /*margin: 40px;*/
   padding: 50px;
   font-family: 'Source Code Pro';
 }
